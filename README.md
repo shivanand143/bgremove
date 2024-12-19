@@ -38,7 +38,7 @@ bgremove/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<your-username>/bgremove.git
+   git clone https://github.com/shivanand143/bgremove.git
    cd bgremove
    ```
 
@@ -107,4 +107,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to replace `<your-username>` with your actual GitHub username. Let me know if you'd like additional customization!
